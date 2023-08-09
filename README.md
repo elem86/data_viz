@@ -1,7 +1,7 @@
-# data_wiz
+# Data visualization weekend challenge
 
-
-
+## Data Description
+CQI maintains a web database that serves as a resource for coffee professionals and enthusiasts who are interested in learning about coffee quality and sustainability. The database includes a range of information on coffee production, processing, and sensory evaluation. It also contains data on coffee genetics, soil types, and other factors that can affect coffee quality.
 
 
 ## Screenshots
